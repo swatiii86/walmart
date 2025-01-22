@@ -22,7 +22,7 @@ This repository contains a **Power BI dashboard** created for analyzing sales da
 - **Weather's Role**: Sunny and stormy conditions show higher sales activity.  
 
 ## 📌 **How to Use**:
-1. Download the `.pbix` file (Power BI file) from this repository.  
+1. Download the `.pbit` file (Power BI file) from this repository.  
 2. Open it in Power BI Desktop to explore the visuals and insights.  
 3. Use slicers for filtering by category, gender, weather conditions, and store location.  
 
