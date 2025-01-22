@@ -1,8 +1,3 @@
-# walmart
-Here's a description you can add to your GitHub repository for the Walmart Power BI dashboard project:
-
----
-
 # Walmart Sales Analysis Dashboard 📊  
 
 This repository contains a **Power BI dashboard** created for analyzing sales data of Walmart. The dashboard provides detailed insights into key metrics and patterns, helping to understand business performance across different dimensions.
